@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Step 1 - open the folder in terminal 
 
 Step 2 — create virtual environment
@@ -15,3 +16,6 @@ Step 4 — add your Groq API key to .env
 
 Step 5 — run!
 streamlit run app.py
+=======
+# Lang_graph_Chatbot
+>>>>>>> 588142e74431dc03ba3b8482e98f5f56d5cce681
